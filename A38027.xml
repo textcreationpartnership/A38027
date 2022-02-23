@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament touching the excise of flesh-victuals and salt die Martis, 9. Januarii. 1643 / Hen. Elsynge.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38027</idno>
+            <idno type="STC">Wing E2100A</idno>
+            <idno type="STC">ESTC R29761</idno>
+            <idno type="EEBO-CITATION">11204008</idno>
+            <idno type="OCLC">ocm 11204008</idno>
+            <idno type="VID">46732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46732)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament touching the excise of flesh-victuals and salt die Martis, 9. Januarii. 1643 / Hen. Elsynge.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Elsynge, Henry, 1598-1654.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Rich. Cotes and Joh. Raworth,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Die Mortis, 9. Januarii. 1643.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+                  <note>Imperfect: print show-through.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meat --  Taxation --  England.</term>
+               <term>Salt --  Taxation --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46732:1"/>
+            <pb facs="tcp:46732:1"/>
+            <p>
+               <hi>Die Martis,</hi> 9. <hi>Januarii.</hi> 1643.</p>
+            <p>AN ORDINANCE OF THE LORDS <hi>And</hi> COMMONS Aſſembled In PARLIAMENT, Touching the EXCISE OF <hi>Fleſh-Victuals, and Salt.</hi>
+            </p>
+            <p>Hen. Elſynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Rich. Cotes</hi> and <hi>Joh. Raworth,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:46732:2"/>
+            <pb facs="tcp:46732:2"/>
+            <head>
+               <hi>Die Martis,</hi> 9 <hi>Januarii.</hi> 1643.</head>
+            <head type="sub">AN ORDINANCE Of the Lords and Commons aſſembled in PARLIAMENT, Touching the Exciſe of Fleſh-Victualls and Salt.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament having, by an Ordinance dated the eleventh of <hi>September</hi> laſt, ſet a Rate of Exciſe and New-Impost upon ſe<g ref="char:EOLhyphen"/>verall Commodities, as well Native as Forraign, for the maintenance of the Ar<g ref="char:EOLhyphen"/>mies raiſed in defence of the King and Parliament, and other great Affairs of the Common-wealth; amongst which, they had ſpeciall regard to the Navie, for guard of the Seas: And now finding, That through the loſſe of
+<pb n="2" facs="tcp:46732:3"/>ſeverall Ports of the Kingdom, and daily decay of Trade, the Navie cannot be ſufficiently maintained out of the Re<g ref="char:EOLhyphen"/>venue of the Cuſtomes, as theſe times of imminent danger do require; nor ſuch a convenient Fleet ſet forth this next Summer, for the guard of the Seas, defence of the Kingdom, and preſervation of Trade, without further ſupply of Moneys, to be raiſed by ſome equall and indiffer<g ref="char:EOLhyphen"/>ent way, as may be moſt eaſie to the well-affected Subjects of this Kingdom:</p>
+            <p>Be it therefore Ordained by the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons, That from and after the tenth day of this inſtant <hi>January,</hi> all the ſeverall ſorts and kindes of Fleſh-Meats, as alſo all Salt imported, or made within this Kingdom, ſhall pay the ſeverall Rates of Exciſe or New-Impoſt hereafter appointed and ſpecified, according as the ſaid Exciſe is hereby directed to be leavied and paid, <hi>Viz.</hi>
+            </p>
+            <p>THat all Forraign Salt imported, or to be im<g ref="char:EOLhyphen"/>ported into the Kingdom of <hi>England,</hi> Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> and Town of <hi>Barwick,</hi> ſhall pay one penny upon every Gallon, to be paid by the firſt buyer of ſuch Salt.</p>
+            <p>That all Salt made within the Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland,</hi> and Dominion of <hi>Wales,</hi> ſhall pay one half-penny upon every Gallon. And that all Salt upon Salt, that is made of Salt, within the ſaid Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> which hath once paid the Exciſe, ſhall pay one farthing upon every Gallon, to be paid by the maker of all ſuch Salt, before ſuch time as the ſaid
+<pb n="3" facs="tcp:46732:3"/>Salt ſhall be put to ſale. And that all Salt upon Salt, that is made of Salt in the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which hath once payed the Exciſe, ſhall pay one farthing upon every Gallon, to be paid by the firſt buyer of ſuch Salt. And that all other Salt upon Salt, imported, or to be imported, in the ſaid Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Barwick,</hi> ſhall pay one penny half-penny upon every Gallon; to be paid by the firſt buyer of ſuch Salt: Provided alwayes, That no Salt expended upon Fiſhing, ſhall be lyable to this Exciſe.</p>
+            <p>That all Beefs, Muttons, Veals, Porks, Lambs, and other Butchers Meat, to be killed for proviſion of Victuals, ſhall pay one ſhilling in every twenty ſhillings value of the Beaſt, when he is living.</p>
+            <p>That all Conies or Rabbets, ſhall pay one half penny a piece.</p>
+            <p>That all Pigeons ſhall pay after the rate of one penny for every dozen.</p>
+            <p>That all Butchers, or others, who do kill and ſell any Beef, Veal, Mutton, Lamb, Pork, or any other Swines fleſh whatſoever, for the Market or ſale, do weekly give an Account to ſuch Office of Exciſe under which their dwelling, or other place of reſidence is; and at the ſame time pay the Ex<g ref="char:EOLhyphen"/>ciſe before mentioned, upon forfeiture of double the value of all ſuch Beaſts, and other Cattle, as by two Witneſſes, or other good proof, ſhall be proved to have been killed at any time, after the tenth day of <hi>January,</hi> 1643. for which no Exciſe
+<pb n="4" facs="tcp:46732:4"/>hath been paid: and further, To be reſtrained from the killing and ſelling of any Fleſh Meat, for one whole yeer, after ſuch proof as aforeſaid.</p>
+            <p>That all Poulterers, and others, who make ſale of any Rabbets or Pigeons, do weekly make like account to the Office of Exciſe under which their Habitation and Trading is, of all Rabbets and Pigeons by them ſold from time to time; And at the ſame time pay the Duty of Exciſe before ap<g ref="char:EOLhyphen"/>pointed in this particular, upon the like penalty re<g ref="char:EOLhyphen"/>ſpectively, and to be reſtrained from ſuch trading and dealing in any kinde whatſoever, for one whole yeer after.</p>
+            <p>That al Houſe-keepers, who, for their own ſpend<g ref="char:EOLhyphen"/>ing, ſhal at any time kil any Beefs, Calves, Sheep, Lambs, Porkers, Rabbets, or Pigeons, ſhal weekly pay Exciſe, after the rate aforeſaid, unto ſuch Col<g ref="char:EOLhyphen"/>lector or Collectors as ſhal be appointed to that purpoſe. And all perſons who ſhal refuſe or neglect to give a true weekly Account, either of their kil<g ref="char:EOLhyphen"/>ling for ſale, or of their own expence, as aforeſaid, ſhal be liable, upon proof of one or two witneſſes, as before directed, to the fine of treble the value, <hi>toties quoties,</hi> to be levyed by diſtreſſe; and, in de<g ref="char:EOLhyphen"/>fault thereof, unto impriſonment, until the Exciſe and penaltie be both ſatisfied.</p>
+            <p>That al Sum and Sums of money received by vertue of this Ordinance, upon any Butchers Meat, Rabbets or Pigeons, before mentioned; as alſo, of al Salt imported, or made in the Land, be appro<g ref="char:EOLhyphen"/>priated to the maintenance of the Navy, and from
+<pb n="5" facs="tcp:46732:4"/>time to time iſſued and payed out, according to the Orders of the Committee of the Houſe of Com<g ref="char:EOLhyphen"/>mons for the Navie; which ſhal be a ſufficient diſ<g ref="char:EOLhyphen"/>charge to the Commiſſioners for Exciſe, being ſigned by the hand of the Chair-man of that Com<g ref="char:EOLhyphen"/>mittee for the time being.</p>
+            <p>That <hi>John Towſe, Thomas Foot, John Kendrick,</hi> and <hi>Thomas Cullum,</hi> Eſquires, Aldermen of the City of <hi>London, Simon Edmonds, John Lamot,</hi> and <hi>Ed<g ref="char:EOLhyphen"/>ward Claxton</hi> of <hi>London,</hi> Eſquires, ſhal be Com<g ref="char:EOLunhyphen"/>miſſioners for the receipt of the before-mentione<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exciſe, according as they are already appointe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and authorized, by Ordinance of the eleventh o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>September</hi> laſt, for the receipt of the Exciſe and New-Impoſt therein rated and expreſſed, and re<g ref="char:EOLhyphen"/>ceive the like allowance of ſix pence in every pound for the receipt; And ſhal and may likewiſe exe<g ref="char:EOLhyphen"/>cute al and every thing and things therein preſcri<g ref="char:EOLhyphen"/>bed, for the better managing of this Work <hi>mutatis mutandis,</hi> as ſhal be requiſite, for the due perform<g ref="char:EOLhyphen"/>ance of this Ordinance, according to the true intent and meaning thereof: And that <hi>Thomas Fawkon<g ref="char:EOLhyphen"/>bridge</hi> and <hi>William Bond,</hi> Gentlemen, ſhall be Audi<g ref="char:EOLhyphen"/>tors to execute this Ordinance, by the ſame Rules and Limitations as they are authorized by the for<g ref="char:EOLhyphen"/>mer Ordinance of Exciſe.</p>
+            <p>And all perſons who ſhall ſeek to elude this Or<g ref="char:EOLhyphen"/>dinance, by concealment, or other fraudulent pra<g ref="char:EOLhyphen"/>ctice, or by non-payment of the Exciſe as aforeſaid, ſhal be ſubject to all Fines, Forfeiture, Impriſon<g ref="char:EOLhyphen"/>ment, or other puniſhment whatſoever, as in the
+<pb n="6" facs="tcp:46732:5"/>ſaid Ordinance of the eleventh of <hi>September</hi> laſt is more at large Declared and Ordained.</p>
+            <p>Provided, That in caſe there ſhal happen to be an overplus of Money ariſing by vertue of this Or<g ref="char:EOLhyphen"/>dinance, which ſhal not be neceſſary for the ſupport of the Navy, That in ſuch caſes the overplus ſhal not be diſpoſed to any uſes, but by Order of both Houſes of Parliament.</p>
+            <p>Provided, That this Ordinance ſhall continue in full force for one whole yeer after the date hereof.</p>
+            <closer>
+               <signed>Hen. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46732:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
